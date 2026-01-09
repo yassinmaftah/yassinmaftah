@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Yaasine Maftah<br>💻 Full-Stack Developer in training<br>🚀 Passionate about building clean, efficient, and user-focused web applications<br>📚 Currently learning JavaScript, React, Node.js, and C<br>🔥 Always improving my skills through real projects and daily practice<br>📫 Reach me at: yassinmaftah06@gmail.com
+👋 Hi, I’m Yaasine Maftah<br>💻 Full-Stack Developer in training<br>🚀 Passionate about building clean, efficient, and user-focused web applications<br>📚 Currently learning JavaScript and PHP and SQL<br>🔥 Always improving my skills through real projects and daily practice<br>📫 Reach me at: yassinmaftah06@gmail.com
 
 
 ## 🌐 Socials:

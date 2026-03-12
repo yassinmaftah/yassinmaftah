@@ -18,6 +18,15 @@
 
 <img src="https://raw.githubusercontent.com/Kye710/Kye710/main/assets/animated-line.gif" width="100%">
 
+### 🏆 GitHub Trophies
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=yassinmaftah&theme=radical&margin-w=15&margin-h=15&column=7&no-frame=true&no-bg=true" alt="Yassine's Trophies" />
+  </a>
+</div>
+
+<br>
+
 <table width="100%" style="border: none;">
   <tr>
     <td width="55%" valign="center">
@@ -32,7 +41,7 @@
   "current_focus": [
     "React.js State Management",
     "Laravel API Security",
-    "Relational Database Optimization"
+    "Database Optimization"
   ]
 }</code></pre>
     </td>
@@ -46,6 +55,34 @@
         <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,laravel,python,postman" /></a><br><br>
         <b>Infrastructure & Data</b><br>
         <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode" /></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/Kye710/Kye710/main/assets/animated-line.gif" width="100%">
+
+<table width="100%" style="border: none;">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌱 Continuous Learning Journey</h3>
+      <ul>
+        <li><b>Mastering OOP:</b> Deep diving into Object-Oriented PHP and advanced design patterns.</li>
+        <li><b>Database Mastery:</b> Crafting complex SQL joins, aggregate functions, and writing efficient migrations.</li>
+        <li><b>UI/UX Implementation:</b> Translating complex DOM manipulation and regex validation into seamless user experiences.</li>
+      </ul>
+      <br>
+      <h3>🗣️ Languages</h3>
+      <ul>
+        <li>🇲🇦 <b>Arabic:</b> Native</li>
+        <li>🇫🇷 <b>French:</b> Professional Working Proficiency</li>
+        <li>🇬🇧 <b>English:</b> Professional Working Proficiency</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>⏱️ Coding Activity (WakaTime)</h3>
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yassinmaftah&theme=radical&hide_border=true&title_color=00F0FF" alt="WakaTime Stats" />
       </div>
     </td>
   </tr>

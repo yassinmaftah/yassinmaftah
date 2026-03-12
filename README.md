@@ -1,27 +1,62 @@
-# 💫 About Me:
-👋 Hi, I’m Yaasine Maftah<br>💻 Full-Stack Developer in training<br>🚀 Passionate about building clean, efficient, and user-focused web applications<br>📚 Currently learning JavaScript and PHP and SQL<br>🔥 Always improving my skills through real projects and daily practice<br>📫 Reach me at: yassinmaftah06@gmail.com
+<h1 align="center">Hi there, I'm Yassine Maftah 👋</h1>
+<h3 align="center">Full-Stack Web Developer from Morocco 🇲🇦</h3>
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ysn.mfth) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/yassin.maftah.58/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/yassin__maftah/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/MaftahYassin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yassinmaftah06@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yassinmaftah&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yassinmaftah&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yassinmaftah&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yassinmaftah&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yassinmaftah&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  Passionate about building clean, efficient, and user-focused web applications. Currently honing my skills in full-stack development at YouCode (UM6P) and always eager to learn new technologies through hands-on projects.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yassinmaftah&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on building robust web applications and expanding my knowledge of software architecture (MVC, SOLID principles).
+- 🌱 I’m currently deeply focused on **Laravel, PHP (OOP), and advanced SQL**.
+- 👯 I’m looking to collaborate on open-source projects or exciting full-stack web applications.
+- 📫 How to reach me: **yassinmaftah06@gmail.com**
+
+---
+
+### 🛠️ My Tech Stack
+
+**Frontend:** <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> 
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> 
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"> 
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+<img src="https://img.shields.io/badge/twig-%23000000.svg?style=for-the-badge&logo=twig&logoColor=white" alt="Twig">
+
+**Backend & Databases:** <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"> 
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+
+**Frameworks & Architecture:** <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"> 
+
+---
+
+### 🚀 Featured Projects
+
+*Here are a few things I've built recently:*
+
+* **🚕 TaxiYa** - A ride-sharing platform tailored for the Moroccan "Grand Taxi" system. *(Built with Laravel)*
+* **🛠️ Allo Maalem** - A dynamic job board platform connecting clients with skilled artisans. *(Built with Laravel & TailwindCSS)*
+* **🚌 BookBus** - A bus booking and management system. *(Built with Laravel)*
+* **🎁 Loyalty Points System** - A platform featuring secure authentication, a product catalog, and real-time points redemption. *(Built with Custom MVC PHP, Twig, MySQL, AJAX)*
+* **📝 BlogCMS & Task Manager** - Various management systems exploring native PHP, OOP principles, and database relations.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yassinmaftah&show_icons=true&theme=tokyonight&hide_border=true" alt="Yassine's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassinmaftah&theme=tokyonight&hide_border=true" alt="Yassine's GitHub Streak" />
+</p>
+
+---
+
+### 🤝 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:yassinmaftah06@gmail.com"><img align="center" src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email" /></a>
+</p>
